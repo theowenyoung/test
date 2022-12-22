@@ -1,0 +1,121 @@
+{
+  "hits": [
+    {
+      "created_at": "2022-01-12T05:56:04.000Z",
+      "title": "State of Machine Learning in Julia",
+      "url": "https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385",
+      "author": "agnosticmantis",
+      "points": 107,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 9,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1641966964,
+      "_tags": [
+        "story",
+        "author_agnosticmantis",
+        "story_29902846",
+        "front_page"
+      ],
+      "objectID": "29902846",
+      "_highlightResult": {
+        "title": {
+          "value": "State of Machine Learning in Julia",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "agnosticmantis",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-01-12T03:12:38.000Z",
+      "title": "Scientists believed Covid leaked from Wuhan lab, but feared debate could hurt",
+      "url": "https://www.telegraph.co.uk/news/2022/01/11/scientists-believed-covid-leaked-wuhan-lab-feared-debate-could/",
+      "author": "steelstraw",
+      "points": 457,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 413,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1641957158,
+      "_tags": ["story", "author_steelstraw", "story_29901824", "front_page"],
+      "objectID": "29901824",
+      "_highlightResult": {
+        "title": {
+          "value": "Scientists believed Covid leaked from Wuhan lab, but feared debate could hurt",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.telegraph.co.uk/news/2022/01/11/scientists-believed-covid-leaked-wuhan-lab-feared-debate-could/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "steelstraw",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-01-12T02:34:51.000Z",
+      "title": "The next big Wi-Fi standard is for sensing, not communication",
+      "url": "https://staceyoniot.com/the-next-big-wi-fi-standard-is-for-sensing-not-communication/",
+      "author": "transpute",
+      "points": 115,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 110,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1641954891,
+      "_tags": ["story", "author_transpute", "story_29901587", "front_page"],
+      "objectID": "29901587",
+      "_highlightResult": {
+        "title": {
+          "value": "The next big Wi-Fi standard is for sensing, not communication",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://staceyoniot.com/the-next-big-wi-fi-standard-is-for-sensing-not-communication/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "transpute",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 120633,
+  "page": 0,
+  "nbPages": 20,
+  "hitsPerPage": 50,
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": true,
+  "query": "",
+  "params": "advancedSyntax=true\u0026analytics=true\u0026analyticsTags=backend\u0026hitsPerPage=50\u0026numericFilters=points%3E%3D100\u0026tags=%28story%2Cpoll%2Cshow_hn%2Cask_hn%29",
+  "renderingContent": {},
+  "processingTimeMS": 8
+}
